@@ -1,0 +1,15 @@
+node_modules/
+dist/
+out/
+cache/
+.env
+.env.*
+!.env.example
+state/
+secrets/
+logs/
+*.log
+coverage/
+.venv/
+.vercel
+.DS_Store
